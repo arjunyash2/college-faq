@@ -1,0 +1,55 @@
+[
+  {
+    "id": "FAQ-001",
+    "question": "How do I apply for admission?",
+    "answer": "Apply using the official college admissions portal. Contact the admissions office for deadlines and eligibility.",
+    "keywords": [
+      "admission",
+      "apply",
+      "application",
+      "enroll"
+    ]
+  },
+  {
+    "id": "FAQ-002",
+    "question": "What are the tuition fees?",
+    "answer": "Fees vary by program. Contact the college accounts office for the current fee schedule.",
+    "keywords": [
+      "fees",
+      "tuition",
+      "cost",
+      "payment"
+    ]
+  },
+  {
+    "id": "FAQ-003",
+    "question": "Are scholarships available?",
+    "answer": "Scholarship availability and eligibility vary. Ask the student support office for current opportunities.",
+    "keywords": [
+      "scholarship",
+      "financial aid",
+      "grant"
+    ]
+  },
+  {
+    "id": "FAQ-004",
+    "question": "Does the college provide hostel facilities?",
+    "answer": "Contact student services to confirm hostel availability, eligibility and charges.",
+    "keywords": [
+      "hostel",
+      "accommodation",
+      "dormitory"
+    ]
+  },
+  {
+    "id": "FAQ-005",
+    "question": "Does the college offer placement support?",
+    "answer": "Contact the placement cell for available career services and recruiting events.",
+    "keywords": [
+      "placement",
+      "jobs",
+      "recruitment",
+      "career"
+    ]
+  }
+]
